@@ -10,6 +10,8 @@
             <dojo-pages>
               <packages>
                 <package name="example" location="js/example"/>
+                <package name="dashboard" location="js/dashboard"/>
+                <package name="lib" location="js/lib"/>
               </packages>
             </dojo-pages>
           </web-framework>

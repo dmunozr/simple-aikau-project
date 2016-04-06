@@ -1,0 +1,6 @@
+<webscript>
+    <shortname>Dashboard Page</shortname>
+    <description>Dashboard definition</description>
+    <family>Share</family>
+    <url>/dashboard</url>
+</webscript>
